@@ -1,5 +1,7 @@
-# arts-favorite-art
-Animations and example art
+# Mayven Studios Favorite Animations for Inspiration
+## aka Art's Favorite Art
+
+Animations and example art for making animations (this is not our work, but rather inspiration)
 
 https://codepen.io/soulwire/pen/kqtrz
 https://codepen.io/ashthornton/pen/KRQbMO
